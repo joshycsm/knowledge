@@ -14,8 +14,8 @@ Awesome markdown cheatsheet for quick reference: https://github.com/adam-p/markd
 Welcome.
 
 Contribution history:
-1 = light
-2 = light
+1 = light ✔️ ☑️ 🎵🎶
+2 = light ✔️
 3 = light
 4 = light
 5 = medium
