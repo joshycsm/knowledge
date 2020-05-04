@@ -24,6 +24,6 @@ Contribution history:
 8 = medium ✔︎
 9 = heavy ✔︎
 10 = heavy ✔︎
-11 = 
+11 = heavy ✔︎
 12 = 
 13 = extra heavy
