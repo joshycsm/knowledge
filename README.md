@@ -19,7 +19,7 @@ Contribution history:
 3 = light ✔️
 4 = light ✓ ✔︎ ❆ ❅
 5 = medium ✔︎✔︎
-6 = heavy
+6 = medium ✔︎
 7 = 
 8 = 
 9 = 
