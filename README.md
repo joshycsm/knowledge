@@ -22,5 +22,5 @@ Contribution history:
 6 = medium ✔︎
 7 = medium ✔︎
 8 = medium ✔︎
-9 = medium
+9 = heavy ✔︎
 10 = heavy
