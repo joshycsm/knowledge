@@ -18,7 +18,7 @@ Contribution history:
 2 = light ✔️
 3 = light ✔️
 4 = light ✓ ✔︎ ❆ ❅
-5 = medium 
+5 = medium ✔︎✔︎
 6 = heavy
 7 = 
 8 = 
