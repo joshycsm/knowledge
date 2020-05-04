@@ -20,7 +20,7 @@ Contribution history:
 4 = light ✓ ✔︎ ❆ ❅
 5 = medium ✔︎✔︎
 6 = medium ✔︎
-7 = 
+7 = medium ✔︎
 8 = 
 9 = 
 10 = 
