@@ -11,7 +11,7 @@ created by Josh Cabral <br>
 
 Awesome markdown cheatsheet for quick reference: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-Welcome. 4 days long!
+Welcome. 4 days 
 
 Contribution history:
 1 = light ✔️ ☑️ 🎵🎶
