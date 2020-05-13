@@ -22,7 +22,7 @@ Contribution history:
 6 = medium ✔︎ =o
 7 = medium ✔︎
 8 = medium ✔︎
-9 = heavy ✔︎ ;(
+9 = heavy ✔︎ ;(?
 10 = heavy ✔︎
 11 = heavy ✔︎
 12 = heavy ✔︎
