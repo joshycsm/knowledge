@@ -11,20 +11,5 @@ created by Josh Cabral <br>
 
 Awesome markdown cheatsheet for quick reference: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-Welcome.  
-
-Contribution history:
-1 = light ✔️ ☑️ 🎵🎶
-2 = light ✔️
-3 = light ✔️
-4 = light ✓ ✔︎ ❆ ❅
-5 = medium ✔︎✔︎
-6 = medium ✔︎ =o
-7 = medium ✔︎
-8 = medium ✔︎
-9 = heavy ✔︎ ;(?
-10 = heavy ✔︎ ??
-11 = heavy ✔︎ ??
-12 = heavy ✔︎ ?!
-13 = extra heavy   
+Welcome.
   
