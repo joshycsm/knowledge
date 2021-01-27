@@ -1,6 +1,6 @@
 # Knowledge
 
-Head over to the Wiki tab between the Projects tab and Security tab if you would like to see what is contained here. Happy learning!
+Head over to the [Wiki tab](https://github.com/joshycsm/myWiki/wiki) between the Projects tab and Security tab if you would like to see what is contained here. Happy learning!
 
 Major note refactors to come!
 
